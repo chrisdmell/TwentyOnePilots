@@ -5,3 +5,9 @@ Drop by the code block for some interesting stuff!!!
 2. [Day 02](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-02-20200326.ipynb) : Market basket analysis, business use case, and SQL implementation for two-itemsets.
 3. [Day 03](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-03-20200327.ipynb) :  _lets begin_ with some basic numpy ideas on numpy slicing and dicing. 
 ```import numpy as np ```
+
+
+
+
+# License
+The content of this repository is licensed under MIT LICENSE
