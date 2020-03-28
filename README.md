@@ -10,4 +10,4 @@ Drop by the code block for some interesting stuff!!!
 
 
 # License
-The content of this repository is licensed under MIT LICENSE
+The content of this repository is licensed under [MIT LICENSE](https://github.com/chrisdmell/TwentyOnePilots/blob/master/LICENSE)
