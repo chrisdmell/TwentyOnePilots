@@ -8,6 +8,7 @@ Drop by the code block for some interesting stuff!!!
 4. [Day 04](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-04-20200328.ipynb) : The important thing that we all miss is a good documentation. Here is something about writing a neat ```README``` file...
 5. [Day 05](https://chrisdmell.github.io/chrisaloysiusdmello/) : __Break__, that wasn't expected!!!
 6. [Day 06](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-06-20200330.ipynb) : How do you deal with correlated variables? ElasticNet shows the way!!
+7. [Day 07](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-07-20200331.ipynb) : The one where you tune the hyper-paramters. ```import xgboost as xgb```
 
 
 
