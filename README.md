@@ -1,14 +1,15 @@
 # TwentyOnePilots
 One hour each day for 21 days!! This 21 day lockdown, 21 new things to learn. <br>
 Drop by the code block for some interesting stuff!!!
-1. [Day 01](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-01-20200325.ipynb) : It is about CatBoostClassifier, predict food delivery timing for beginners. 
-2. [Day 02](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-02-20200326.ipynb) : Market basket analysis, business use case, and SQL implementation for two-itemsets.
-3. [Day 03](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-03-20200327.ipynb) :  _lets begin_ with some basic numpy ideas on numpy slicing and dicing. 
+01. [Day 01](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-01-20200325.ipynb) : It is about CatBoostClassifier, predict food delivery timing for beginners. 
+02. [Day 02](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-02-20200326.ipynb) : Market basket analysis, business use case, and SQL implementation for two-itemsets.
+03. [Day 03](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-03-20200327.ipynb) :  _lets begin_ with some basic numpy ideas on numpy slicing and dicing. 
 ```import numpy as np ```
-4. [Day 04](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-04-20200328.ipynb) : The important thing that we all miss is a good documentation. Here is something about writing a neat ```README``` file...
-5. [Day 05](https://chrisdmell.github.io/chrisaloysiusdmello/) : __Break__, that wasn't expected!!!
-6. [Day 06](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-06-20200330.ipynb) : How do you deal with correlated variables? ElasticNet shows the way!!
-7. [Day 07](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-07-20200331.ipynb) : The one where you tune the hyper-paramters. ```import xgboost as xgb```
+04. [Day 04](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-04-20200328.ipynb) : The important thing that we all miss is a good documentation. Here is something about writing a neat ```README``` file...
+05. [Day 05](https://chrisdmell.github.io/chrisaloysiusdmello/) : __Break__, that wasn't expected!!!
+06. [Day 06](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-06-20200330.ipynb) : How do you deal with correlated variables? ElasticNet shows the way!!
+07. [Day 07](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-07-20200331.ipynb) : The one where you tune the hyper-paramters. ```import xgboost as xgb```
+08. [Day 08](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-08-20200401.ipynb) : Time to drop the __loop__
 
 
 
