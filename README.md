@@ -11,6 +11,7 @@ Drop by the code block for some interesting stuff!!!
 07. [Day 07](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-07-20200331.ipynb) : The one where you tune the hyper-paramters. ```import xgboost as xgb```
 08. [Day 08](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-08-20200401.ipynb) : Time to drop the __loop__
 09. [Day 09](https://public.tableau.com/profile/chris5331#!/vizhome/Tableau_Dashboards_Containers_001/Dashboard1?publish=yes) : Tableau - The wizard of the Viz! The first thing to know about dashboards is _containers_,
+10. [Day 10](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-10-20200403.ipynb) : Time Series 101, 
 
 
 
