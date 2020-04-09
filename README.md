@@ -14,6 +14,10 @@ Drop by the code block for some interesting stuff!!!
 10. [Day 10](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-10-20200403.ipynb) : Time Series 101, 
 11. [Day 11](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-11-20200404.ipynb) : What is Spark anyways? A few answers to regular Spark questions
 12. [Day 12](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-12-20200406.ipynb) : A simple classifier - Logistic Regression!
+13. [Day 13](07)
+14. [Day 14](08)
+15. [Day 15](09)
+16. [Day 16](10)
 
 
 
