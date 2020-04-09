@@ -18,6 +18,7 @@ Drop by the code block for some interesting stuff!!!
 14. [Day 14](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-14-20200407.ipynb) : COVID-19 data wrangling using ```pandas```
 15. [Day 15](08)
 16. [Day 16](09)
+17. [Day 17](10)
 
 
 
