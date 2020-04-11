@@ -17,7 +17,7 @@ Drop by the code block for some interesting stuff!!!
 11. [Day 11](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-11-20200404.ipynb) : What is Spark anyways? A few answers to regular Spark questions
 12. [Day 12](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-12-20200405.ipynb) : A simple classifier - Logistic Regression!
 13. [Day 13](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-13-20200406.ipynb) : ```itertools```
-14. [Day 14](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-14-20200407.ipynb) : COVID-19 data wrangling using ```pandas```  [:panda_face:](https://www.webfx.com/tools/emoji-cheat-sheet/):
+14. [Day 14](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-14-20200407.ipynb) : COVID-19 data wrangling using ```pandas```  [:panda_face:](https://www.webfx.com/tools/emoji-cheat-sheet/)
 15. [Day 15](https://public.tableau.com/profile/chris5331#!/vizhome/NovelCoronaVirusOutbreak-2020/Dashboard1?publish=yes) : Tableau Viz - The effect of COVID around the Globe. 
 16. [Day 16](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-16-20200409.ipynb) : It is not distributed computing if you are running it on a single machine - ```spark```
 17. [Day 17](10)
