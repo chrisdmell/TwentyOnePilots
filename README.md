@@ -22,6 +22,10 @@ Drop by the code block for some interesting stuff!!!
 16. [Day 16](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-16-20200409.ipynb) : It is not distributed computing if you are running it on a single machine - ```spark```
 17. [Day 17](10)
 18. [Day 18](11)
+19. [Day 19](12)
+20. [Day 20](13)
+21. [Day 21](14)
+
 
 
 
