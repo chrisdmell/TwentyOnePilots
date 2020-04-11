@@ -20,7 +20,7 @@ Drop by the code block for some interesting stuff!!!
 14. [Day 14](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-14-20200407.ipynb) : COVID-19 data wrangling using ```pandas```  [:panda_face:](https://www.webfx.com/tools/emoji-cheat-sheet/)
 15. [Day 15](https://public.tableau.com/profile/chris5331#!/vizhome/NovelCoronaVirusOutbreak-2020/Dashboard1?publish=yes) : Tableau Viz - The effect of COVID around the Globe. 
 16. [Day 16](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-16-20200409.ipynb) : It is not distributed computing if you are running it on a single machine - ```spark```
-17. [Day 17](10)
+17. [Day 17](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-17-20200410.ipynb) : __Hackathons__ : Business heuristics and Modelling...
 18. [Day 18](11)
 19. [Day 19](12)
 20. [Day 20](13)
