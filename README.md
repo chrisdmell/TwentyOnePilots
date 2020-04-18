@@ -22,7 +22,7 @@ Drop by the code block for some interesting stuff!!!
 16. [Day 16](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-16-20200409.ipynb) : It is not distributed computing if you are running it on a single machine - ```spark```
 17. [Day 17](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-17-20200410.ipynb) : __Hackathons__ : Business heuristics and Modelling...
 18. [Day 18](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-18-20200411.ipynb) : ANOVA
-19. [Day 19](12)
+19. [Day 19](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-19-20200412.ipynb) : Logistic Regression From Scratch
 20. [Day 20](13)
 21. [Day 21](14)
 
