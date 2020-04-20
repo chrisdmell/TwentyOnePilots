@@ -24,7 +24,7 @@ Drop by the code block for some interesting stuff!!!
 18. [Day 18](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-18-20200411.ipynb) : ANOVA
 19. [Day 19](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-19-20200412.ipynb) : Logistic Regression From Scratch
 20. [Day 20](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-20-20200413.ipynb) : So I cleared [LinkedIn](https://www.linkedin.com/in/chris-d-mello-30996b88/) Assesment Python Test,
-21. [Day 21](14)
+21. [Day 21](https://github.com/chrisdmell/TwentyOnePilots/blob/master/CodeBlock/Day-21-20200414.pdf) : Resume - How to present yourself!!
 
 
 
